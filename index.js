@@ -1,9 +1,9 @@
 const inquirer = require("inquirer");
 
-const Employee = require("../../../New folder/Team-Profile-Generator-10-master/lib/Employee");
-const Engineer = require("../../../New folder/Team-Profile-Generator-10-master/lib/Engineer");
-const Intern = require("../../../New folder/Team-Profile-Generator-10-master/lib/Intern");
-const Manager = require("../../../New folder/Team-Profile-Generator-10-master/lib/Manager");
+const Employee = require("../../../New folder/Team-Profile-Generator-10-master/Lib/employee");
+const Engineer = require("../../../New folder/Team-Profile-Generator-10-master/Lib/engineer");
+const Intern = require("../../../New folder/Team-Profile-Generator-10-master/Lib/intern");
+const Manager = require("../../../New folder/Team-Profile-Generator-10-master/Lib/manager");
 
 const fs = require("fs");
 
